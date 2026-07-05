@@ -804,7 +804,7 @@ class _CharacterCollectionPageState extends State<CharacterCollectionPage> {
                           setModalState(() {});
                           setState(() {});
                         },
-                        activeColor: kAccent,
+                        activeThumbColor: kAccent,
                         activeTrackColor: kAccent.withValues(alpha: 0.3),
                       ),
                     ],
